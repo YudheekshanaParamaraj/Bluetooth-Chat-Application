@@ -1,0 +1,28 @@
+1. Bluetooth Module:
+
+PyBluez is a Python extension module written in C that provides
+access to system Bluetooth resources in an object oriented,
+modular manner. It is written for the Windows XP (Microsoft
+Bluetooth stack) and GNU/Linux (BlueZ stack).
+
+2. Socket Module:
+
+The 'socket' module defines how server and client machines can
+communicate at hardware level using socket endpoints on top of
+the operating system. The 'socket' API supports both
+connection-oriented and connectionless network protocols.
+
+3. Thread Module:
+
+Threads in python are an entity within a process that can be
+scheduled for execution. In simpler words, a thread is a
+computation process that is to be performed by a computer. It is a
+sequence of such instructions within a program that can be
+executed independently of other codes.
+
+4. Tkinter:
+
+Tkinter is the standard GUI library for Python. Python when
+combined with Tkinter provides a fast and easy way to create GUI
+applications. Tkinter provides a powerful object-oriented interface
+to the Tk GUI toolkit. Import the Tkinter module.
