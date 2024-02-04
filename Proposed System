@@ -1,0 +1,18 @@
+The bluetooth chat application that is developed here is done by only
+python. Usually they are built through Java due to availability of the module.
+In python there is a bluetooth package called py-bluez that is to be
+downloaded and used for the access of bluetooth in the coding.
+
+Python is used to develop because it is easier to code and it is much
+more comfortable to make future updates with. We have used Tkinter for the
+interface within python. This app for now is developed in such a way it works
+with one system. When it is developed further, many more devices can be
+added and communicated in the same way. Even in this code, it only works if
+the system's bluetooth is switched on. Hence the application will work only if
+there is bluetooth. Internet connection is not required.
+
+This chat application will be very useful for organizations to
+communicate effortlessly even if their server is down. So there is no need to
+worry about sending important messages while there is no connection. But it
+is to note that since bluetooth is only for a short range, this application will
+work only within 100m of range.
